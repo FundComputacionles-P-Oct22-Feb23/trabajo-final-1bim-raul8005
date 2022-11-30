@@ -1,0 +1,18 @@
+Problema 06:
+
+Miniespecificacion
+
+1. Inicio
+2. contador, i[0,n]<--1
+3. numero, i[0,n]<--1
+4. numerodos, i[0,n]<--2
+5. serie, i[0,n]<--1
+4. limite, i[0,n]<--100
+7. Mientras contador <== limite entonces 
+9.      serie <-- serie + numero / numerodos
+10.     contador <-- contador + 1
+11.     numerodos <-- numerodos + 1
+12.  Fin si
+13. Fin Mientras
+14. Escribe "La suma es:" + serie
+15. Fin

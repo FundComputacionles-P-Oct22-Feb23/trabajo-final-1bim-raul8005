@@ -1,0 +1,40 @@
+Problema 02:
+
+Miniespecificacion
+
+1. Inicio
+2. cantidad_traje, i[0,n]
+3. precio_traje, d[0,n] <--30.50
+4. subtotal, d[0,n]
+5. total, d[0,n]
+6. descuento 1, i[0,n] <--20
+7. descuento 2, i[0,n] <--25
+8. descuento 3, i[0,n] <--40
+9. descuento 4, i[0,n] <--50
+10. Escribe "Ingrese la cantidad de trajes comprados"
+11. lee cantidad_traje
+12. subtotal <-- cantidad_traje * precio_traje
+13. Si cantidad_traje == 1 entonces
+14.    total <-- subtotal * 20 / 100
+15.    descuento <-- 20
+16. De lo contrario
+17. Si cantidad_traje == 2 entonces
+18.    total <-- subtotal * 25 / 100
+19.    descuento <-- 25
+20. De lo contrario
+21. Si cantidad_traje == 3
+22.    total <-- subtotal * 40 / 100
+23.    descuento <-- 40
+24. De lo contrario
+25. Si cantidad_traje == 4 entonces
+26.    total <-- subtotal * 50 / 100
+27.    descuento <-- 50
+28. De lo contrario
+29. Fin Si
+30. Fin Si
+31. Fin Si
+32. Fin si
+33. Escribe "El subtotal a pagar es:" + subtotal
+34. EScribe "El total a pagar es:" + total
+35. Escribe "El descuento es:" + descuento
+36. Fin

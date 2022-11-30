@@ -1,0 +1,42 @@
+Problema 03:
+
+Miniespecificacion
+
+
+1. inicio 
+2. nombre, x(20)[{a-z},{A-Z},{BS}]
+3. tipoempleado, i [0,n]
+4. numeroHora, i [0,n]
+5. cuotapago, d [0,n]
+6. sueldoPagar, d[0,n]
+7. horasextras, i[0,n]
+8. pagoextra, d[0,n]
+9.   Escribir "ingrese el nombre porfavor"
+10.   leer nombre
+11.   Escribir "que tipo de espleado (1 o 2 o 3 o 4)"
+12.   leer tipoEmpleado
+13.  Escribir "ingrese el numero de horas trabajadas"
+14.  leer numeroHora
+15.  Escribir "ingrese la cuota que se le paga por hora extra"
+16.  leer cuotapago
+17.  Escribir "ingrese las horas extras trabajadas"
+18.  leer horasextras
+19. sueldoPagar <-- numeroHora + pagoextra
+20. Si tipoempleado == 1 entonces
+21.     pagoextra <-- horasextras * 1.5 
+22.     sueldoPagar <-- sueldoPagar + horasextras
+23. De lo contrario
+24. Si tipoempleado == 2 entonces
+25.    pago extra <-- horasextras * 2
+26.    sueldoPagar <-- sueldoPagar + pagoextra
+27. Si tipoempleado == 3 entonces 
+28.    pagoextra <-- horasextras * 2.5
+29.    sueldoPagar <-- sueldoPagar + pagoextra
+30. De lo contrario 
+31. Si tipoempleado == 4 entonces   
+32.    pagoextra <-- horasextras * 3
+33.    sueldoPagar <-- sueldoPagar + pagoextra
+34. Fin Si
+35. Fin Si
+36. Escribe "Sueldo por pagar es:" + sueldo por pagar
+37. Fin

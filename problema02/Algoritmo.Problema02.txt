@@ -1,0 +1,15 @@
+Problema 02:
+
+Algoritmo
+
+1. Inicio
+2. Se pide la cantidad de trajes comprados
+3. Se pide el precio unitario del traje
+4. Si el usuario compra 1 traje se le hace descuento del 20%
+5. Si el usuario compra 2 trajes se le hace descuento del 25%
+6. Si el usuario compra 3 trajes se le hace descuento del 40%
+7. Si el usuario compra mas de 3 trajes se le hace descuento del 25%
+8. Para el subtotal se multiplica el precio unitario por el numero de trajes comprados
+9. Para total a pagar, se multiplica el precio total por el descuento otorgado
+10. Se muestra en pantalla el subtotal, el descuento y el total por pagar
+11. FIn

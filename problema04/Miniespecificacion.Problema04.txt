@@ -1,0 +1,23 @@
+Problema 04: 
+
+Miniespecificación
+
+1. Inicio
+2. int a = 0
+3. int b = 0
+4. int c = 0
+5. Escribe "Ingrese 3 numeros"
+6. Lee a,b,c
+8. Si a < b entonces
+9.   Si a>c entonces
+10.     Escribe "El numero ",a," es el mayor de los tres" 
+11.   De lo contrario
+12.     Escribe "El numero ",c," es el mayor de los tres"
+13.  Fin Si
+14.  Si b > c entonces
+15.    Escribe "el numero ",b,"es el mayo de los tres"
+16.  De lo contrario
+17.    Escribe "El numero ",c," es el mayor de los tres"
+18.  Fin Si
+19. Fin si
+20. FIn

@@ -1,0 +1,10 @@
+Problema 01
+
+Algoritmo:
+
+1. Se pide el ángulo recrto del rectangulo 
+2. Se pide el ángulo del obtusangulo (que sea mayor a 90 y menor a 180)
+3. Se pide los 3 ángulos agudos del Acutángulo (que sean menos a 90)
+4. Se lee el tamano de los 3 angulos
+5. Se presenta en pantalla el tipo de triangulo
+6. Fin

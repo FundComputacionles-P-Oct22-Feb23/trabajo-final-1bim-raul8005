@@ -1,0 +1,14 @@
+Problema 05:
+
+Algoritmo
+
+1. Inicio
+2. El contador recibe el valor de 1
+3. El numero recibe el valor de 1
+4. Los resultados deben ser guardados en una serie
+5. Si el contador es <= 100 empieza el ciclo repetitivo
+6. Se escribe el numero dividido para el contador
+7. Al contador se le suma 1
+8. Si la condicion no se cumple se termina el ciclo repetitivo
+9. Se presenta en pantalla la serie
+10. Fin

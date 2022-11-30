@@ -1,0 +1,29 @@
+Miniespecificación: 
+
+1.  Inicio
+2.  ladoA, d[0-n] 
+3.  ladoB, d[0-n]
+4.  ladoC, d[0-n]
+5.  tipoTriangulo, x(50)[{A-Z},{BS},{a-z}]
+7.  trianguloRectangulo, d[0-n]
+8.  trianguloObtusangulo, d[0-n]
+9.  trianguloAcutangulo, d[0-n]
+10. valorAB, d[0-n]
+11. <<"Ingrese el valor del lado a del triangulo"
+12. >>ladoA
+13. <<"Ingrese el valor del lado b del triangulo"
+14. >>ladoB
+15. <<"Ingrese el valor del lado c del triangulo"
+16. >>ladoC
+17. ladoC <-- ladoC^2
+18. valorAB <-- ladoA^2 * ladoB^2
+19. Si ladoC == valorAB entonces
+20.  <<"Los valores que ingreso corresponden a un Triangulo Rectangulo"
+21. De lo contrario
+22.  Si ladoC > valorAB
+23.   <<"Los valores que ingreso corresponden a un Triangulo Obtusangulo"
+24.  De lo contrario
+25.   <<"Los valores que ingreso corresponden a un Triangulo Acutangulo"
+26.  Fin Si
+27. Fin Si
+27.Fin

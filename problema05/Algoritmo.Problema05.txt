@@ -3,4 +3,16 @@ Problema 05:
 Algoritmo
 
 1. Inicio
-2. 
+2. Se pide que se ingrese el primer valor
+3. Se pide que se ingrese el segundo valor
+4. Si el valorX es mayor a 0 
+5. Se presenta "El valor que ingreso corresponde al eje positivo de las x"
+5. Si la condicion no se cumple
+6. Se presenta "El valor que ingreso corresponde al eje negativo de las x"
+7. Se termnina la condicion
+8. si el valorY es mayor a o 
+9. Se presenta "El valor que ingreso corresponde al eje positivo de las y"
+10. Si la condicion no se cumple
+11. Se presenta "El valor que ingreso corresponde al eje negativo de las y"
+12. Se termnina la condicion
+13. FIn

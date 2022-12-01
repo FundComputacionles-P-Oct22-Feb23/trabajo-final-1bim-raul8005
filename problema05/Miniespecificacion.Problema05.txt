@@ -1,5 +1,22 @@
 Problema 05:
 
-Miniespecificacion
+Miniespecificación:
 
-1. Inicio
+1.  Inicio
+2.  valorX, d[-n,n]
+3.  valorY, d[-n,n]
+4.  Escribe "Ingrese el primer valor" 
+5.  Lee valorX
+6.  Escribe "Ingrese el segundo valor"
+7.  lee valorY
+8.   Si valorX > 0 entonces
+9.    Escribe "El valor que ingreso corresponde al eje positivo de las x"
+10.  De la contrario
+11.     Escribe "El valor que ingreso corresponde al eje negativo de las x"
+12.  Fin Si
+13.  Si valorY > 0 entonces
+14.   Escribe "El valor que ingreso corresponde al eje positivo de las y"
+15.  De lo contrario
+16.  Escribe "El valor que ingreso corresponde al eje negativo de las y"
+17.  Fin Si
+18. Fin

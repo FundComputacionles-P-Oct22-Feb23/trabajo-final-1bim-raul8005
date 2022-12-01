@@ -1,0 +1,26 @@
+Problema 10:
+
+Algoritmo
+
+1.  Inicio
+2.  bandera, l <-- true
+3.  primerDato, d[o-n]
+4.  datos, d[0-n] <-- 0
+5.  contador, i[0-n] <-- 0
+6.  media, d[0-n] <-- 0
+7.  opcion, x(2)[{A-Z},{BS},{a-z}]
+8.  Mientras bandera == true entonces
+9.    Escribe "Ingrese el dato por favor a calcular"
+10.   Lee primerDato
+11.   datos <-- datos + primerDato
+12.   Escribe "Ingrese (x) para salir"
+13.   Lee opcion
+14.   Si opcion == x entonces
+15.     bandera <-- false
+15.     contador <-- contador + 1
+16.   De lo contrario
+17.     media = mensaje/contador
+18.   Fin Si
+19. Fin Mientras
+20. Escribe "La media es de :" + media
+21. Fin

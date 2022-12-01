@@ -3,3 +3,11 @@ Problema 10:
 Algoritmo
 
 1. Inicio
+2. Se usa una bandera que mientras sea true el proceso sigue 
+3. Se pide ingresar los numeros
+4. Si la bandera es false el proceso se termina 
+5. Se salcula la media sumando los numeros ingresados y se los divide para la cantidad
+   de numeros ingresados
+6. Se calcula la varianza 
+7. Se presenta en pantalla la media mas la varianza
+8. Fin

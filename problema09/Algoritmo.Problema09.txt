@@ -1,5 +1,22 @@
 Problema 09:
 
-Algoritmo
+Miniespecificacion
 
-1. Inicio
+
+1. inicio
+2. contador, i[0-n]<--1
+3. numero, i[0-n]<--(-11)
+4. numero2, i[0-n]<--24
+5. suma,i[0-n]<--0
+6. cadena, x (80)[{0-n}]<-- ""
+7. mientras contador <= 3 entoces
+8.   cadena<-- cadena + numero + "+" + numero2
+9.  numero<-- numero -11
+10.  numero2<-- numero2 +12
+11.  contador <-- contador + 1 
+12.  suma = suma - numero + numero2
+13. fin mientras 
+14. suma <-- suma + 12 - 44
+15.  escribir 'S1=" + "12" + cadena + "-44"
+16.   escribir "la suma de la cadenas es:"  suma
+17. fin

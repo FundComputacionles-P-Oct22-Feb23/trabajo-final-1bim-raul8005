@@ -8,7 +8,7 @@ Miniespecificacion
 3. tipoempleado, i [0,n]
 4. numeroHora, i [0,n]
 5. cuotapago, d [0,n]
-6. sueldoPagar, d[0,n]
+6. sueldopagar, d[0,n]
 7. horasextras, i[0,n]
 8. pagoextra, d[0,n]
 9.   Escribir "ingrese el nombre porfavor"

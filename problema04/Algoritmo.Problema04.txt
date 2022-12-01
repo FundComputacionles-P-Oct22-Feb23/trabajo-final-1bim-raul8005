@@ -4,7 +4,7 @@ Algoritmo
 
 1. Inicio
 2. Se pide al usuario ingresar tres numeros diferentes
-3. Se valida que no sean iguales, caso contrario se muestra un mensaje de error
+3. Se valida que los numeros  no sean iguales, caso contrario se muestra un mensaje de error
 4. Se obtiene solo el numero mayor
 5. Se muestra en pantalla el numero mayor
 6. Fin

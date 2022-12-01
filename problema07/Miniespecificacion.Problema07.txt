@@ -2,5 +2,19 @@ Problema 07:
 
 Miniespecificacion
 
-1. Inicio
-2. 1 milla
+1Inicio
+2. numero,i[0-n]<--1
+4. suma, i[0-n]<--0
+5, Haga_hasta
+7.  Escribir "ingrese numero pares:"
+8.   Leer numero
+9. Si numero MOD 2 == 0  entoces
+10. suma <-- suma + numero 
+11.  de lo contrario
+12.  Si numero == 1 entoces
+13.  escribir "error en el numero ingresado"
+14.    fin si
+15.   fin si
+16 fin Haga_hasta (numero != 0)
+17. escribir " la suma de los numero pares es:" + suma
+18. Fin

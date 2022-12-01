@@ -26,7 +26,7 @@ Miniespecificacion
 22.    total <-- subtotal * 40 / 100
 23.    descuento <-- 40
 24. De lo contrario
-25. Si cantidad_traje == 4 entonces
+25. Si cantidad_traje >= 4 entonces
 26.    total <-- subtotal * 50 / 100
 27.    descuento <-- 50
 28. De lo contrario
